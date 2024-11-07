@@ -1,2 +1,2 @@
-# e-business-ferreteriaa
-Proyecto realización e-commerce de ferreteria
+# PROYECTO FINAL FUNDAMENTOS INGENIERIA DE SOFTWARE
+Desarrollo de un e-commerce de una ferreteria para proyecto final 
