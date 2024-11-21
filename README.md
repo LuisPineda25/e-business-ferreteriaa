@@ -13,4 +13,4 @@ Sistema de e-commerce para gestión de ferretería.
 ## Instalación
 1. Clonar el repositorio
    ```bash
-   git clone https://github.com/tu-usuario/e-business-ferreteria.git
+   git clone https://github.com/LuisPineda25/e-business-ferreteriaa.git
